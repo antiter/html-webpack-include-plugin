@@ -1,0 +1,9 @@
+{
+  "name": "html-webpack-include-plugin",
+  "version": "1.0.0",
+  "description": "html-webpack-plugin支持include",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
